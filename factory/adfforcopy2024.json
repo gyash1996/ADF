@@ -1,0 +1,9 @@
+{
+	"name": "adfforcopy2024",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5b90cbea-76e7-4a64-8bcd-2fb14ef66662",
+		"tenantId": "068b196a-2d57-407f-a70d-3c0571c3266a"
+	}
+}
